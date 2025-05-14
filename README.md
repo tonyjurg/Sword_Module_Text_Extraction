@@ -1,10 +1,12 @@
+<a href="https://www.repostatus.org/#active" target="_blank" Title="Project Status: Active – The project has reached a stable, usable state and is being actively developed."><img src="https://www.repostatus.org/badges/latest/active.svg"></a> 
+
 # Sword Module Text Extraction
 
 This notebook in this repository demonstrates how to extract Biblical text from Sword modules using the [`pysword`](https://pypi.org/project/pysword/) library in Python. The `pysword` library provides an interface for accessing and parsing text from [Sword Project modules](http://crosswire.org/sword/modules/), which are widely used for digital Bible resources. In this example, we will load one Sword module and extract the the surface text for a specific book, chapter, and verse, and showcase how to display the extracted content. 
 
 For more information about the Sword Project, visit [The CrossWire Bible Society](http://crosswire.org/sword/).
 
-Also take into account the following from from: [www.crosswire.org/faq](https://www.crosswire.org/faq)
+Also take into account the following comment from: [www.crosswire.org/faq](https://www.crosswire.org/faq)
 >
 > How do I convert Sword modules to text?
 >
